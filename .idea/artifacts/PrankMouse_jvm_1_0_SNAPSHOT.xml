@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="PrankMouse-jvm-1.0-SNAPSHOT">
+    <output-path>$PROJECT_DIR$/build/libs</output-path>
+    <root id="archive" name="PrankMouse-jvm-1.0-SNAPSHOT.jar">
+      <element id="module-output" name="PrankMouse.jvmMain" />
+    </root>
+  </artifact>
+</component>
